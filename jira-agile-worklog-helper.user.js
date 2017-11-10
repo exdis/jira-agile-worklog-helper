@@ -21,13 +21,9 @@
 // @name           Jira Agile Worklog Helper
 // @namespace      http://jira/
 // @description    Tracks time have being spent on issues / Подсчитывает время, затраченное на задачи
-// @match          http://jira.ngs.local/*
-// @match          http://jira/*
-// @match          http://jira.rn/*
+// @match          https://jr.avito.ru/*
 // @version        3.1
-// @include        http://jira.ngs.local/*
-// @include        http://jira/*
-// @include        http://jira.rn/*
+// @include        http://jr.avito.ru/*
 // @grant          none
 // ==/UserScript==
 
